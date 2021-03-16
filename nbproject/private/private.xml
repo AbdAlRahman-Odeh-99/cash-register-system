@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Boundary/DrawerInterface.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/Testing/testMain.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/MainForm.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Adapters/ScannerAdapter.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Data.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/StoredData.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/Testing/ScaleTest.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Boundary/ScaleInterface.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/Testing/ReceiptPrinterTest.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Payment.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/CheckoutForm.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Boundary/ScannerInterface.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Adapters/DrawerAdapter.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/Testing/ScaleForm.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Item.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Bill.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/TransactionForm.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/coordinator.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Adapters/ScaleAdapter.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/Testing/ScannerTest.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/Testing/DrawerTest.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/Testing/ScannerForm.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/LogEvent.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Boundary/ReceiptPrinterInterface.java</file>
+            <file>file:/C:/Users/abdal/Desktop/CashRegisterSystem/src/crs/Adapters/PrinterAdapter.java</file>
+        </group>
+    </open-files>
+</project-private>

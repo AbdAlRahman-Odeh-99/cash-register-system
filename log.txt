@@ -1,0 +1,18 @@
+18/12/2019 01:20:48 AM A New Bill Is Created !
+18/12/2019 01:21:01 AM The previous Bill is finished!
+
+Item ID: 123  Item Name: shampoo   Item Price: 5.99    Item Quantity/Weight: 1.0  Total Price: 5.99
+Total Price: 5.99
+Customer Pay: 10.0
+Change: 4.01
+---------------------------------------------
+20/12/2019 05:52:42 PM A New Bill Is Created !
+20/12/2019 06:02:30 PM A New Bill Is Created !
+20/12/2019 06:13:30 PM A New Bill Is Created !
+20/12/2019 06:13:33 PM A New Bill Is Created !
+20/12/2019 06:13:49 PM A New Bill Is Created !
+20/12/2019 06:26:41 PM A New Bill Is Created !
+20/12/2019 06:27:45 PM A New Bill Is Created !
+20/12/2019 06:28:36 PM A New Bill Is Created !
+20/12/2019 06:43:22 PM A New Bill Is Created !
+20/12/2019 06:46:27 PM A New Bill Is Created !
